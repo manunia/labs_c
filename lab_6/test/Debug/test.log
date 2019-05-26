@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\maha\homework\программирование\1081187_си\lab_6\test\test.cpp(4): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  C:\maha\homework\программирование\1081187_си\lab_6\test\test.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+C:\maha\homework\программирование\1081187_си\lab_6\test\test.cpp(215): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\maha\homework\программирование\1081187_си\lab_6\test\test.cpp(216): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\maha\homework\программирование\1081187_си\lab_6\test\test.cpp(234): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> C:\maha\homework\программирование\1081187_си\lab_6\test\Debug\test.exe

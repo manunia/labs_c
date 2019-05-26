@@ -1,0 +1,5 @@
+﻿  test_1_1.cpp
+C:\maha\homework\программирование\1081187_си\lab_2\test_1_1\test_1_1.cpp(26): warning C4244: =: преобразование "double" в "Sint16", возможна потеря данных
+C:\maha\homework\программирование\1081187_си\lab_2\test_1_1\test_1_1.cpp(51): warning C4244: =: преобразование "double" в "Sint16", возможна потеря данных
+C:\maha\homework\программирование\1081187_си\lab_2\test_1_1\test_1_1.cpp(52): warning C4244: =: преобразование "double" в "Sint16", возможна потеря данных
+  test_1_1.vcxproj -> C:\maha\homework\программирование\1081187_си\lab_2\test_1_1\Debug\test_1_1.exe
