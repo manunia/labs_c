@@ -1,0 +1,6 @@
+﻿  test_3.cpp
+C:\maha\homework\программирование\1081187_си\lab_1\test_3\test_3.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\maha\homework\программирование\1081187_си\lab_1\test_3\test_3.cpp(88): warning C4129: : неизвестная escape-последовательность
+C:\maha\homework\программирование\1081187_си\lab_1\test_3\test_3.cpp(108): warning C4129: : неизвестная escape-последовательность
+C:\maha\homework\программирование\1081187_си\lab_1\test_3\test_3.cpp(134): warning C4129: : неизвестная escape-последовательность
+  test_3.vcxproj -> C:\maha\homework\программирование\1081187_си\lab_1\test_3\Debug\test_3.exe
